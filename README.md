@@ -2,6 +2,8 @@
 
 Task Manager is a simple web-based application built with HTML, CSS, and Bootstrap 5. It allows users to view and manage tasks using features like a task list, modal for adding tasks, dropdown actions, navigation tabs, and pagination.
 
+![ipad](https://github.com/user-attachments/assets/71316887-1b45-4291-a469-0b99162efe33)
+
 ## Features
 
 Navbar: Includes links to the Dashboard, Tasks, and Reports.
@@ -26,8 +28,6 @@ CSS3: Styling.
 
 Bootstrap 5: Layout and responsive design.
 
-## Medium screen
-![ipad](https://github.com/user-attachments/assets/71316887-1b45-4291-a469-0b99162efe33)
 
 ## Small screen
 ![phone](https://github.com/user-attachments/assets/62df913c-1a4e-4070-89aa-f3877a5e04bf)
